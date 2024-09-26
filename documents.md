@@ -1,5 +1,3 @@
-Here's a formatted version of your document for submission:
-
 ---
 
 # **Sentiment Analysis API with LLM Integration**
@@ -110,5 +108,3 @@ curl -X POST -F 'file=@/path/to/customer_reviews.csv' http://127.0.0.1:5000/anal
 This sentiment analysis API demonstrates the potential of integrating LLMs into traditional NLP tasks. While it provides robust and context-aware sentiment analysis, there are opportunities for optimization and expansion, such as handling larger datasets and offering more detailed insights.
 
 ---
-
-Let me know if you'd like any further adjustments before submission!
