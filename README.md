@@ -2,8 +2,7 @@
 
 # **Sentiment Analysis API with LLM Integration**
 
-## 1. Approach to Solving the Problem
-
+## 1. Approach to Solving the Problem:
 ### 1.1 API Development
 - **Framework**: Chose Flask as the web framework for its simplicity and ease of use.
 - **Endpoint**: Implemented a single endpoint `/analyze` that accepts POST requests with file uploads.
